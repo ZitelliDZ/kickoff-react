@@ -1,0 +1,20 @@
+.parent {
+  display: grid;
+  grid-template-columns: 250px 5fr;
+  grid-template-rows: 100px 1fr;
+  grid-template-areas:
+    'sidebar navbar'
+    'sidebar main';
+}
+
+.sidebar {
+  grid-area: sidebar;
+}
+
+.navbar {
+  grid-area: navbar;
+}
+
+.main {
+  grid-area: main;
+}
