@@ -14,9 +14,9 @@ Este repositorio contiene una configuración inicial para un proyecto react que 
 
 ## Presentacion
 
-![Pagina Home1](https://github.com/ZitelliDZ/kickoff-react/blob/main/presentacion/page4.png?raw=true)
+![Pagina Home1](https://github.com/ZitelliDZ/kickoff-react/blob/main/presentacion/page3.png?raw=true)
 
-![Pagina Home2](https://github.com/ZitelliDZ/kickoff-react/blob/main/presentacion/page1.png?raw=true)
+![Pagina Home2](https://github.com/ZitelliDZ/kickoff-react/blob/main/presentacion/page4.png?raw=true)
 
 ![Pagina Home3](https://github.com/ZitelliDZ/kickoff-react/blob/main/presentacion/page2.png?raw=true)
 
